@@ -8,7 +8,9 @@
 
 ---
 
-<img align="right" alt="GIF" src="https://giphy.com/embed/xT1XGzXhVgWRLN1Cco" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/producthunt-code-coding-learn-to-xT1XGzXhVgWRLN1Cco">via GIPHY</a></p>
+<src="https://giphy.com/embed/xT1XGzXhVgWRLN1Cco" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen>
+
+
 
 <!--
 **MattiaVinelli/MattiaVinelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
