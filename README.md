@@ -5,6 +5,12 @@
 [![Linkedin Badge](https://img.shields.io/badge/-Mattia_Vinelli-blue?style=flat&logo=Linkedin&logoColor=white&link=https://https://www.linkedin.com/in/mattia-vinelli-09a32a137//)](https://www.linkedin.com/in/mattia-vinelli-09a32a137//)
 [![Gmail Badge](https://img.shields.io/badge/-mattivine-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mattivine@gmail.com)](mailto:mattivine@gmail.com)
 
+
+---
+
+<img align="right" alt="GIF" src="https://giphy.com/embed/xT1XGzXhVgWRLN1Cco" />
+
+
 <!--
 **MattiaVinelli/MattiaVinelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
