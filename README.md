@@ -4,6 +4,12 @@
 [![Gmail Badge](https://img.shields.io/badge/-mattivine-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:mattivine@gmail.com)](mailto:mattivine@gmail.com)
 
 
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/dvsjHZc6P3oozpp9I4/giphy.gif" width="100"/>
+</div>
+
+
 ---
 
 
