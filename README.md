@@ -12,12 +12,7 @@
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MattiaVinelli&layout=compact&theme=vision-friendly-dark)](https://github.com/MattiaVinelli/github-readme-stats)
 
-
-
-
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&color=61DAFB)
 
 ---
 
