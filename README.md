@@ -15,6 +15,10 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MattiaVinelli&layout=compact&theme=vision-friendly-dark)](https://github.com/MattiaVinelli/github-readme-stats)
 
 
+
+
+<img alt=”React” src=”https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+
 ---
 
 
